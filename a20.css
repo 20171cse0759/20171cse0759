@@ -1,0 +1,12 @@
+body
+{
+  background-color:lightblue;
+  border-style :double;
+  border-width: medium;
+  border-color: maroon;
+  border-top-style:dotted;
+  border-right-style:solid;
+  border-bottom-style:dotted;
+  border-left-style:solid;
+  margin:25px 50px 75px 100px;
+}
